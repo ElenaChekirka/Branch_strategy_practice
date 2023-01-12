@@ -8,4 +8,6 @@ public class Store {
 
     // line store 3
 
+    // line 4
+
 }
