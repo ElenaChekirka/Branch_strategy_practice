@@ -6,4 +6,6 @@ public class Food {
 
     // line 3
 
+    // comments
+
 }
